@@ -1,4 +1,3 @@
-​Vous​
 import express from "express";
 import cors from "cors";
 import Stripe from "stripe";
@@ -8,28 +7,22 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-/* =========================
-   ROOT
-========================= */
+/* =============================
+   BASIC ROUTES
+============================= */
+
 app.get("/", (req, res) => {
   res.send("KAMDRIDI backend running");
 });
 
-/* =========================
-   HEALTH CHECK
-========================= */
 app.get("/health", (req, res) => {
-  res.status(200).json({
-    ok: true,
-    service: "kamdridi-backend",
-    uptime: process.uptime(),
-    timestamp: new Date().toISOString()
-  });
+  res.status(200).json({ status: "ok" });
 });
 
-/* =========================
+/* =============================
    STRIPE CHECKOUT
-========================= */
+============================= */
+
 app.post("/create-checkout", async (req, res) => {
   try {
     const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
@@ -48,15 +41,17 @@ app.post("/create-checkout", async (req, res) => {
 
     res.json({ url: session.url });
   } catch (err) {
+    console.error(err);
     res.status(500).json({ error: err.message });
   }
 });
 
-/* =========================
+/* =============================
    START SERVER
-========================= */
-const PORT = process.env.PORT || 3000;
+============================= */
+
+const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, () => {
-  console.log("Server running on port", PORT);
+  console.log(`Server running on port ${PORT}`);
 });
