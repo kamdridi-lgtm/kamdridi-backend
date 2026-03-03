@@ -1,15 +1,35 @@
+​Vous​
 import express from "express";
 import cors from "cors";
 import Stripe from "stripe";
 
 const app = express();
+
 app.use(cors());
 app.use(express.json());
 
+/* =========================
+   ROOT
+========================= */
 app.get("/", (req, res) => {
   res.send("KAMDRIDI backend running");
 });
 
+/* =========================
+   HEALTH CHECK
+========================= */
+app.get("/health", (req, res) => {
+  res.status(200).json({
+    ok: true,
+    service: "kamdridi-backend",
+    uptime: process.uptime(),
+    timestamp: new Date().toISOString()
+  });
+});
+
+/* =========================
+   STRIPE CHECKOUT
+========================= */
 app.post("/create-checkout", async (req, res) => {
   try {
     const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
@@ -32,6 +52,9 @@ app.post("/create-checkout", async (req, res) => {
   }
 });
 
+/* =========================
+   START SERVER
+========================= */
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
