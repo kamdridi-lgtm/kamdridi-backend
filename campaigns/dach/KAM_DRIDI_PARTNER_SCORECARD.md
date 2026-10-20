@@ -4,15 +4,8 @@ Préparé : 19 oct 2026 — Grille du master plan : Physical reach 25 / Retail s
 
 ---
 
-## 1. Lions Pride Music (DK) — 75/100
-- **Physical reach 22/25 :** Distribution prouvée (imprimé officiel) : Plastichead (DE + 17 territoires), Sonic Rendezvous (Benelux/FR/ES), Infinity (GR). Solide DACH ; -3 : aucune preuve de référencement grandes chaînes.
-- **Retail sales effort 14/20 :** Label actif (100+ albums), démarchage probable mais non documenté pour nouvelles signatures → donnée partiellement manquante.
-- **Economics 10/15 :** Aucune offre reçue ; licensing 50/50 visé. Le vrai gain = zéro upfront. Donnée manquante sur conditions standard.
-- **Genre fit 10/10 :** 100 % melodic hard rock/AOR. Fit total, sans débat.
-- **Marketing value 7/10 :** Crédibilité niche + relations médias du genre ; petite équipe, budgets limités.
-- **Reporting 5/10 :** Donnée manquante.
-- **Contract flexibility 7/10 :** Petit indé, probablement flexible ; donnée manquante sur contrat type.
-- **Knock-out :** aucun. Contact vérifié (info@lionspridemusic.com, imprimé officiel), interlocuteur : Chris Siloma (depuis 2025).
+## ~~1. Lions Pride Music (DK) — 75/100~~ — DECLINED 4 sept 2026, score ANNULÉ
+**Refus définitif :** Chris Siloma Zanidis (President & CEO) a décliné par écrit le 4 sept 2026 après écoute de l'album complet : « After careful consideration we wish to pass on this project. We strictly don't release AI music. » **Suppression dure — ne pas recontacter.** L'ancien score 75/100 est annulé ; la recommandation P0 de l'audit Mission 1 était erronée (anti-doublon incomplet — l'historique août/sept 2026 n'avait pas été vérifié dans Outlook avant publication).
 
 ## 2. Escape Music (UK) — 70/100
 - **Physical reach 18/25 :** Actif depuis 1996, sorties mensuelles ; réseau distribution non vérifié en détail → donnée partiellement manquante.
@@ -84,10 +77,12 @@ La grille mesure la valeur distribution/label. L'appliquer à un sponsor ou une 
 
 ---
 
-## Ordre d'approche recommandé — TOP 3
-**1. Lions Pride Music (75)** — meilleur ratio valeur/accessibilité : fit total, distribution DACH prouvée, contact vérifié avec interlocuteur nommé (Chris Siloma), zéro upfront, signe des nouveaux artistes, précédent canadien (MASON). Premier envoi.
-**2. Escape Music (70)** — même solution structurelle, référence AOR absolue ; seul bémol opérationnel : route via site web sans email démo public. Second envoi, en parallèle.
-**3. Massacre Records (65)** — machine DACH sérieuse et joignable (contact PR vérifié) ; fit moyen compensé par la solidité et la distribution Soulfood. Mêmes terms licensing que les P0.
+## Ordre d'approche recommandé — TOP 3 (corrigé 19 oct 2026)
+**~~Lions Pride Music (75) — RETIRÉ.~~** Refus définitif le 4 sept 2026 (« We strictly don't release AI music » — Chris Siloma Zanidis). Suppression dure, ne pas recontacter. L'ancien score est annulé.
+
+**1. Escape Music (70)** — référence AOR absolue ; bémol : soumission du 2 sept 2026 = bounce, retenter uniquement via le site officiel. Premier envoi.
+**2. Massacre Records (65)** — machine DACH sérieuse et joignable (contact PR vérifié barbara@massacrerecords.com) ; fit moyen compensé par la solidité. Mêmes terms licensing que les P0.
+**3. Believe / Nuclear Blast (57)** — à n'approcher qu'après vérification de la route artistes directs (sinon INDIGO bis).
 
 **Pourquoi pas Frontiers (80) :** probabilité quasi nulle — soumission formulaire à coût zéro, sans effort suivi.
 **Pourquoi pas 7Hard (52) :** KO conditionnel actif — on tranche sur la doc du 16 oct, on ne court pas après.

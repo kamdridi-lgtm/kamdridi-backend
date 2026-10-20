@@ -93,7 +93,7 @@ Deal label/P&D signé début déc 2026 ?
 
 **Aujourd'hui, sans attendre :**
 1. **Activer la voie C** (nov–déc 2026) : POD pour les 2 titres → le 15 jan 2027, TWICE UPON A TIME est achetable en physique partout dans le monde. Coût : 0 €. Risque : 0.
-2. **Poursuivre la voie A** : candidatures P0 (Lions Pride Music, Escape Music) = le véhicule. Un deal licensing signé = le seul chemin vers du vrai retail DACH.
+2. **Poursuivre la voie A** : candidatures P0 (Escape Music (Lions Pride DECLINED 4 sept 2026 — ne pas recontacter)) = le véhicule. Un deal licensing signé = le seul chemin vers du vrai retail DACH.
 3. **Préparer la voie B** : ouvrir la fenêtre précommandes mi-nov. Si ≥150 → on presse 300 pour la tournée. Si <150 → on ne presse rien, et c'est une décision, pas un échec.
 
 **Ce qu'on ne fait pas :**
